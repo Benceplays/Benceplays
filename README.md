@@ -1,6 +1,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benceplays&theme=dark&background=000000)](https://git.io/streak-stats)
 <div style="display: flex; flex-direction: row; margin-left:"50%"">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=adamint&show_icons=true&theme=radical"/><br><br>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Benceplays&show_icons=true&theme=radical"/><br><br>
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benceplays&theme=radical&layout=compact" />
 </div>
 <div>
