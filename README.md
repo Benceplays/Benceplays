@@ -1,5 +1,8 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benceplays&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benceplays&theme=dark&background=000000)](https://git.io/streak-stats)
+<div style="display: flex; flex-direction: row; margin-left:"50%"">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=adamint&show_icons=true&theme=radical"/><br><br>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benceplays&theme=radical&layout=compact" />
+</div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
