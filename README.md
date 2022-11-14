@@ -1,8 +1,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Benceplays&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benceplays&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benceplays&hide=contribs,prs)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benceplays&repo=Project-B)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Benceplays&repo=SeaLords)](https://github.com/anuraghazra/github-readme-stats)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
